@@ -60,5 +60,22 @@ npm run build && npm run start:prod
 - DTOs y validación con `class-validator` y `class-transformer`.
 - Scripts de NPM para test, build y ejecución en desarrollo/producción.
 
+## 📚 Documentación Adicional
+
+- **[HISTORIAS_USUARIO.md](./HISTORIAS_USUARIO.md)** - Historias de usuario implementadas con criterios de aceptación
+- **[CONVENCION_COMMITS.md](./CONVENCION_COMMITS.md)** - Convención de commits y trazabilidad
+- **[GUIA_RAMAS.md](./GUIA_RAMAS.md)** - Guía completa de trabajo con ramas Git
+- **[PRESENTACION.md](./PRESENTACION.md)** - Guía para presentación del proyecto
+- **[RESUMEN_ENTREGA.md](./RESUMEN_ENTREGA.md)** - Resumen de cumplimiento de requisitos
+
+## 🌿 Estructura de Ramas
+
+El proyecto utiliza Git Flow con las siguientes ramas:
+- `main` - Código en producción
+- `develop` - Rama de desarrollo principal
+- `feature/HU-X-descripcion` - Ramas por historia de usuario
+
+Ver [GUIA_RAMAS.md](./GUIA_RAMAS.md) para más detalles.
+
 ## 📜 Licencia
 MIT
